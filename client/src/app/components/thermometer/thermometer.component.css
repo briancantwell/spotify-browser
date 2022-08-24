@@ -1,0 +1,21 @@
+.progress {
+	margin: 10px;
+	height: 20px;
+	text-align: right;
+
+}
+.progress-bar {
+	aria-valuemin:"0";
+	aria-valuemax:"100";
+	overflow: visible;
+}
+
+
+.progress-value {
+	color: black;
+	float: left;
+	text-align: right;
+	margin-right: 10px;
+	margin-left: 10px;
+	overflow: visible;
+}
